@@ -1,0 +1,11 @@
+.lnbclass {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+  .lnbai {
+    border: 7px outset blue;
+    background-color: lightyellow;
+    text-align: center;
+  }
+  
